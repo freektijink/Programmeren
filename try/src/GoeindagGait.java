@@ -2,8 +2,8 @@
 
 public class GoeindagGait {
 
-	public newItem(){
-		return item;
+	public boolean newItem(){
+		return false;
 		
 	}
 }

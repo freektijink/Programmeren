@@ -19,7 +19,7 @@ public class PricedRoom extends Room implements Bill.Item{
 public String toString(){
 	return description + " €" + getAmount();
 
-               }
+}
 
 
 

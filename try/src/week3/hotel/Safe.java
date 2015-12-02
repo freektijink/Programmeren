@@ -1,6 +1,6 @@
 package week3.hotel;
 
-import ss.week1.Password;
+//import softwaresystems.src.ss.week1.Password;
 
 public class Safe {
 	private Password password;

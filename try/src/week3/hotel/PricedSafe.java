@@ -14,6 +14,8 @@ public class PricedSafe extends Safe implements Bill.Item {
 	public double getAmount() { 
 		return price; 
 	} 
+	
+	// comment
 		 
 	public String toString() { 
 		String output = ""; 
